@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\obj\Debug\PesoIdeal.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\obj\Debug\PesoIdeal.frmCalculoDePessoal.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Users\Aluno\Documents\Igor ADS\Programação Visual\Exercicios\ExerciciosIniciais\PesoIdeal\obj\Debug\PesoIdeal.pdb
